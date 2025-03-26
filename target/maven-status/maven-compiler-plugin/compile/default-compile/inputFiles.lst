@@ -1,0 +1,12 @@
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/ApiGatewayApplication.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/config/FeignClientConfig.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/filter/CustomGlobalFilter.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/ChallengeClient.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/ContestClient.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/ContestDTO.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/ContestUserDTO.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/JwtUtil.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/SubmissionClient.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/SubmissionDTO.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/UserClient.java
+/home/michele/Scrivania/idiotCTF/submodules/idiotCTF-api-gateway/src/main/java/project/labadvancedprogramming/ApiGateway/util/UserDTO.java
